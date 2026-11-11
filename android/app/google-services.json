@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175791183566",
+    "project_id": "csc4360-auth-lab",
+    "storage_bucket": "csc4360-auth-lab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175791183566:android:ce2ba312b8ac0337c3a29f",
+        "android_client_info": {
+          "package_name": "com.example.csc4360_auth_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDkToRDKZ0zA_RHt9UT2lPgtGOwVGCGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175791183566:android:82ffda1931548e50c3a29f",
+        "android_client_info": {
+          "package_name": "com.example.fcm_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDkToRDKZ0zA_RHt9UT2lPgtGOwVGCGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
